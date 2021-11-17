@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1c25e888-6e70-41cb-dc54-64f299498ea8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Neuroanatomy",
+  "course_description": "This subject will be an intensive introduction to neuroanatomy, involving lectures, demonstrations, and hands-on laboratories, including a brain dissection. The course will not assume any prior knowledge of neuroanatomy, though some general knowledge of brain structures will be helpful.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.97",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
